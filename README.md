@@ -14,25 +14,6 @@ As a Senior Fullstack & AI Automation Engineer, I architect and deliver producti
 
 ---
 
-### 🧠 Focus Areas
-
-- Performance Optimization  
-- Secure & Scalable Architecture  
-- AI-Powered Product Development  
-- Intelligent Process Automation  
-- End-to-End System Ownership  
-
----
-
-### 🛠 Tech Stack
-
-**Frontend:** React, Next.js, Vue, Angular, TailwindCSS  
-**Backend:** Node.js, Python, Java/Spring Boot, .NET Core, PHP  
-**AI & Automation:** LLMs, NLP, Computer Vision, Workflow Automation  
-**Cloud & DevOps:** AWS, CI/CD, Docker, REST, GraphQL  
-
----
-
 ### 📌 What Drives Me
 
 I build systems that ship measurable business value.  
